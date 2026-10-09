@@ -1,6 +1,11 @@
 
 # Performance Comparison of AES and RSA Encryption
 
+## Live Demo
+
+Open the deployed dashboard here: [AES vs RSA Performance Dashboard] https://performance-comparison-aes-and-rsa.onrender.com
+
+
 ## Project Overview
 This Cryptography and Network Security (CNS) micro-project compares the encryption and decryption performance of AES and RSA for different input sizes.
 
